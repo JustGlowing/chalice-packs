@@ -25,4 +25,4 @@ from sklearn.linear_model import LinearRegression
 ...
 ```
 
-Notice that all the libraries on which sklearn (numpy, scipy, joblib, ..) depends will be also in the package.
+Notice that all the libraries on which sklearn depends (numpy, scipy, joblib, ..) will be also in the package.
