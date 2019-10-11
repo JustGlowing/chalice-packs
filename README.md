@@ -16,7 +16,7 @@ cd helloworld
 
 Now in your `app.py` file you can use the sklearn library:
 
-```
+```python
 from chalice import Chalice
 
 app = Chalice(app_name='helloworld')
