@@ -1,6 +1,6 @@
 # chalice-packs
 
-A collection of scripts to build packages for Chalice (AWS lambda) to use libraries that are normally too big to be installed using the `requirement.txt` file.
+A collection of scripts to build packages for <a href="https://github.com/aws/chalice">Chalice</a> (AWS lambda) to use libraries that are normally too big to be installed using the `requirement.txt` file.
 
 Note that the scripts need to be run from a machine similar to the one implemented from the labda system (generally Linux 64 bit).
 
